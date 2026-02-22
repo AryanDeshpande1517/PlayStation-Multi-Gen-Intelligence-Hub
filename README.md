@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/PlayStation-Multi-Gen-Intelligence-Hub-Banner.png" width="100%" />
+  <img src="Assets/8.1-PlayStation-Multi-Gen-Intelligence-Hub-Banner.png" width="100%" />
 </p>
 
 # 🎮 PlayStation Multi-Gen Intelligence Hub
@@ -7,8 +7,6 @@
 
 > A Multi-Generation Console Analytics Platform  
 > Revenue, Genre Evolution, Publisher Power & Title-Level Intelligence
-
----
 
 ## 📌 Project Overview
 
@@ -30,8 +28,6 @@ The dashboard integrates:
 
 The objective is to understand how console generations evolve commercially and how publishers, genres, and flagship titles shape platform success.
 
----
-
 ## 🎯 Problem Statement
 
 The gaming industry operates in generational cycles.
@@ -47,8 +43,6 @@ Key strategic questions:
 
 This project delivers structured lifecycle intelligence using interactive BI modeling.
 
----
-
 ## 📊 Dashboard Structure
 
 ### 🏠 Overview – Ecosystem Snapshot
@@ -58,17 +52,13 @@ This project delivers structured lifecycle intelligence using interactive BI mod
 - Console market share split
 - PlayStation Studios global presence
 
----
-
-### 🕹 PS3 Intelligence
+### 🎮 PS3 Intelligence
 - Games released
 - Lifecycle cost comparison
 - Hall of Fame (Top-selling titles)
 - Top publishers
 - Genre revenue mix
 - Metacritic best performers
-
----
 
 ### 🎮 PS4 Intelligence
 - Total titles released
@@ -77,16 +67,12 @@ This project delivers structured lifecycle intelligence using interactive BI mod
 - Sales leaders
 - Platform maturity impact
 
----
-
-### 🚀 PS5 Intelligence
+### 🎮 PS5 Intelligence
 - Early lifecycle performance
 - Top shipped titles
 - Publisher concentration shift
 - Genre dominance evolution
 - Generational comparison
-
----
 
 ### 🔎 Game Search & Title Drillthrough
 Interactive search module enabling:
@@ -95,8 +81,6 @@ Interactive search module enabling:
 - Publisher breakdown
 - Metacritic score
 - Regional sales distribution (NA, EU, JP, Others)
-
----
 
 ## 🧩 Data Modeling Approach
 
@@ -120,14 +104,10 @@ The model supports:
 - Regional distribution analytics
 - Drillthrough-based search experience
 
----
-
 ## ⚙️ Model Optimization Note
 
 High-cardinality descriptive fields were streamlined to maintain efficient performance and reduce PBIX size.  
 The model is optimized for responsiveness, cross-filtering, and scalable lifecycle analysis.
-
----
 
 ## 🛠 Tools & Technologies
 
@@ -137,26 +117,25 @@ The model is optimized for responsiveness, cross-filtering, and scalable lifecyc
 - Star Schema Modeling  
 - Generational Segmentation Analytics  
 
----
-
 ## 📷 Dashboard Preview
 
-### 🏠 Overview
-![Overview](Assets/1-Overview.png)
+### 🏠 Home
+![Overview](Assets/1-Home.png)
 
-### 🕹 PS3 Dashboard
-![PS3](Assets/2-PS3.png)
+### 🕹 Overview
+![Overview](Assets/2-Overview.png)
 
-### 🎮 PS4 Dashboard
-![PS4](Assets/3-PS4.png)
+### 🎮 PlayStation 3 Dashboard
+![PS3](Assets/3-PlayStation-3.png)
 
-### 🚀 PS5 Dashboard
-![PS5](Assets/4-PS5.png)
+### 🎮 PlayStation 4 Dashboard
+![PS4](Assets/4-PlayStation-4.png)
+
+### 🎮 PlayStation 5 Dashboard
+![PS5](Assets/5-PlayStation-5.png)
 
 ### 🔎 Game Search
-![Game Search](Assets/5-Game-Search.png)
-
----
+![Game Search](Assets/6-Game-Search.png)
 
 ## 📂 Data Source
 
@@ -167,8 +146,6 @@ https://www.kaggle.com/datasets/gvidalguiresse/playstation-sales-and-metadata-ps
 > ⚠️ Raw dataset is not redistributed in this repository due to Kaggle licensing restrictions.  
 > Please download directly from the official Kaggle link.
 
----
-
 ## 📈 Key Insights
 
 - PS4 represents the most commercially dominant lifecycle generation.
@@ -177,8 +154,6 @@ https://www.kaggle.com/datasets/gvidalguiresse/playstation-sales-and-metadata-ps
 - PS5 lifecycle data reflects early-stage growth dynamics.
 - High Metacritic scores do not always guarantee highest sales.
 - Regional distribution shows strong North America and Europe dominance.
-
----
 
 ## 💡 Business Value
 
@@ -190,9 +165,7 @@ This dashboard supports:
 - Regional sales intelligence  
 - Gaming industry investment analysis  
 
----
-
 ## 👤 Author
 
 **Aryan Deshpande**  
-Data Analytics | Market Intelligence | Business Intelligence
+> Aspiring Data Analyst
