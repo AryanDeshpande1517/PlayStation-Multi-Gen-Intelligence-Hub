@@ -45,7 +45,7 @@ This project delivers structured lifecycle intelligence using interactive BI mod
 
 ## 📊 Dashboard Structure
 
-### 🏠 Overview – Ecosystem Snapshot
+### 🕹 Overview – Ecosystem Snapshot
 - Total game copies sold
 - Genre revenue distribution
 - Publisher dominance ranking
@@ -163,7 +163,38 @@ This dashboard supports:
 - Publisher market power analysis  
 - Genre evolution tracking  
 - Regional sales intelligence  
-- Gaming industry investment analysis  
+- Gaming industry investment analysis
+
+## 📁 Repository Structure
+- Assets contain Dashboard Visuals, Complete Walkthrough PDF and Repository Banner / Social Media Preview Image.
+- Datasets contain Dataset References (no raw data included).
+- Scripts contain DAX suggestions that could be used for further improvements.
+- *PlayStation Multi-Gen Intelligence Hub.pbix* is the Complete Interactive Power BI Dashboard.
+
+```text
+PlayStation-Multi-Gen-Intelligence-Hub/
+│
+├── Assets/
+│   ├── 1-Home.png
+│   ├── 2-Overview.png
+│   ├── 3-PlayStation-3.png
+│   ├── 4-PlayStation-4.png
+│   ├── 5-PlayStation-5.png
+│   ├── 6-Game-Search.png
+│   ├── 7-PlayStation-Multi-Gen-Intelligence-Hub-Complete-Walkthrough.pdf
+│   ├── 8.1-PlayStation-Multi-Gen-Intelligence-Hub-Banner.png
+│   └── 8.2-PlayStation-Multi-Gen-Intelligence-Hub-Social-Preview.png
+│
+├── Datasets/
+│   └── Data-Sources.md
+│
+├── Scripts/
+│   └── DAX-Measures.md
+│
+├── PlayStation Multi-Gen Intelligence Hub.pbix
+│
+└── README.md
+```
 
 ## 👤 Author
 
